@@ -1,5 +1,10 @@
 <a href="https://savanapoint.tech/">
-<img src="https://res.cloudinary.com/savanapoint/image/upload/v1615541853/5_jr4gql.jpg" style="width: 7em; height: 6.7em; border-radius: 50%">
+
+
+[<img src="https://res.cloudinary.com/savanapoint/image/upload/v1615541853/svg_1_izt4uk.svg" width="250"/>](https://res.cloudinary.com/savanapoint/image/upload/v1615541853/svg_1_izt4uk.svg)
+
+
+
 
 </a>
 

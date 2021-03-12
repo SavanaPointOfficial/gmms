@@ -1,0 +1,24 @@
+{
+  "name": "gmms-server",
+  "version": "1.0.0",
+  "description": "Server for form contact and more",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "savanapoint-dev": "nodemon ./src/index.js",
+    "start": "node ./src/index.js",
+    "test": "test"
+  },
+  "author": "Francisco Inoque from SavanaPoint",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.19",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

@@ -1,68 +1,53 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<a href="https://savanapoint.tech/">
+<img src="https://res.cloudinary.com/savanapoint/image/upload/v1615541853/5_jr4gql.jpg" style="width: 7em; height: 6.7em; border-radius: 50%">
 
-## Available Scripts
+</a>
 
-In the project directory, you can run:
+# SavanaPoint
 
-### `yarn start`
+## Scripts Disponíveis para <span style="color:#8e2ddd">Client-Side<span>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Na past <strong>client</strong> corre o comando: 
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### `yarn ou npm install`
 
-### `yarn test`
+Para instalar as dependeências.<br />
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+* Depois de instalar todas dependeências, corre o comando:
+
+
+
+### `yarn start` para servir o website no ambiente de desenvolvimento.
+   
+
+
+ * Corre para Produção corre o comando:
 
 ### `yarn build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+<br>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+## Scripts Disponíveis para <span style="color:#8e2ddd">Server-Side<span>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Na past <strong>server</strong> corre o comando: 
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### `yarn ou npm install`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Para instalar as dependeências.<br />
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+* Depois de instalar todas dependeências, corre o comando:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+### `yarn savanapoint-dev ou npm run savanapoint-dev` para servir API no ambiente de desenvolvimento.
+   
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-### Analyzing the Bundle Size
+ * Corre para Produção corre o comando:
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+### `yarn start ou npm start`
 
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
